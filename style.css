@@ -1,0 +1,10 @@
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: -20px; /* Raise it higher */
+  margin-bottom: 30px;
+}
+
+
